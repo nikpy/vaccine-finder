@@ -1,5 +1,5 @@
 ## Available COVID-19 vaccination slot in centers near you (India)
-Find COVID 19 vaccination slots in centers near you (India). 
+Find COVID 19 vaccination slots in centers near you (India) for next 7 days 
 
 Add PINCODES and your Email ID. This piece of code help lets you search fro available COVID vaccination slots in the nearby locality. It uses COWIN public API to search Government database. 
 
